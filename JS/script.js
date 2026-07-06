@@ -6,4 +6,4 @@ function calculateSI() {
     let SI = (P * R * N) / 100;
 
     document.getElementById("result").innerText = "Simple Interest: " + SI;
-}
+}   

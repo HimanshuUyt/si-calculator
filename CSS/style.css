@@ -25,3 +25,11 @@ button {
     border: none;
     cursor: pointer;
 }
+
+button {
+    background: green;
+}
+
+button:hover {
+    background: darkgreen;
+}
