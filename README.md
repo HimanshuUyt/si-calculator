@@ -1,6 +1,6 @@
 # Simple Interest Calculator
 
-## 📌 Project Overview
+## Project Overview
 
 This is a simple web-based application that calculates Simple Interest using the formula:
 
@@ -14,7 +14,7 @@ Where:
 
 ---
 
-## 🚀 Features
+## Features
 
 * User-friendly interface
 * Instant calculation
@@ -23,7 +23,7 @@ Where:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * HTML
 * CSS
@@ -31,7 +31,7 @@ Where:
 
 ---
 
-## 📂 Project Setup
+## Project Setup
 
 ### 1. Clone the Repository
 
@@ -51,7 +51,7 @@ Open `index.html` in your browser.
 
 ---
 
-## 🔄 Version History
+## Version History
 
 ### Initial Version
 
@@ -66,6 +66,6 @@ Open `index.html` in your browser.
 
 ---
 
-## 📌 Author
+## Author
 
 Himanshu
